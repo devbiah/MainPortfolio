@@ -1,5 +1,5 @@
 import './Contact.css'
-export default function Footer() {
+export default function Contact() {
   return (
     <>
       <div id="contact" className="footer-container">
@@ -31,7 +31,7 @@ export default function Footer() {
         </div>
         <p className="footer-text">
           Repository Link:{" "}
-          <a href="https://github.com/devbiah/mainportfolio" target="_blank">
+          <a href="https://github.com/devbiah/MainPortfolio" target="_blank">
             github
           </a>
         </p>
