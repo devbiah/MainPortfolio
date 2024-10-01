@@ -16,7 +16,7 @@ export default function Contact() {
               href="https://www.linkedin.com/in/beatriz-silva-65230b2b0/"
               target="_blank"
             >
-              <img src="/public/linkedin.png" alt="" />
+              <img src="/linkedin.png" alt="" />
             </a>
             <a href="https://www.instagram.com/imthebiah" target="_blank">
               <img src="/instagram.png" alt="" />
